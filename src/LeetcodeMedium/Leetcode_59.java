@@ -4,8 +4,8 @@ import java.util.Arrays;
 
 //Leetcode - 59 - Spiral Matrix II
 //https://leetcode.com/problems/spiral-matrix-ii/
-//Time complexity - O()
-//Space complexity - O()
+//Time complexity - O(n*n)
+//Space complexity - O(n*n)
 public class Leetcode_59 {
     public static void main(String[] args) {
         int[][] ans =  generateMatrix(1);
