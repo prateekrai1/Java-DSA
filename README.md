@@ -6,3 +6,5 @@ This repository contains problems from Leetcode, Codechef, Geeks For Geeks and N
 2. Hashmap
 3. Trees
 4. AVL trees
+5. Stack
+6. Queue
