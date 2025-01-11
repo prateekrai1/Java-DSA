@@ -8,6 +8,3 @@ This repository contains problems from Leetcode, Codechef, Geeks For Geeks and N
 4. AVL trees
 5. Stack
 6. Queue
-## Leetcode && Neetcode problems added
-### Hard
-1. Trapping Rain Water
